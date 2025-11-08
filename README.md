@@ -1,4 +1,4 @@
-# AAAI2026_SM
+# AAAI2026-SM
 This project contains supplementary material (including documentation, code, and data sets) for the following paper:
 
     M. Richards, D. Cowser, D. Nielson, and J. W. Crandall
